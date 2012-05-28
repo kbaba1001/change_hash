@@ -1,0 +1,1 @@
+Ruby1.8記法のHash(:hoge =>)をRuby1.9記法(hoge:)に変換するbashシェルスクリプト。
